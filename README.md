@@ -27,6 +27,7 @@
 				<li><a href="#Willingness_interest">意欲・興味</a></li>
 				<li><a href="#challenge">今後挑戦したいこと</a></li>
 				<li><a href="#like">好きなこと</a></li>
+				<li><a href="#portfolio">ポートフォリオ</a></li>
 				<li><a href="#contact">連絡先</a></li>
 			</ul>
 		</nav>
@@ -39,7 +40,7 @@
 			</p>
 			<hr noshade>
 		</section>
-		<section id="Jobdetail">
+		<section id="Jobcareer">
 			<h2>職務経歴</h2>
 			<main>
 				<table>
@@ -173,6 +174,15 @@
 				</li>
 			</ul>
 			<hr noshade>
+		</section>
+		<section id="portfolio">
+			<h2>ポートフォリオ</h2>
+   　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<ul>
+				<li>
+					<p>[世間を騒がせたコロナウイルス未接種者の視点からの分析 ワクチンの効果・意義・疑問点](https://docs.google.com/presentation/d/1OzX0QUpr8EvGWmrPptv78egbLTXwmOjj7lLE2PyeYaY/edit?usp=sharing)</p>
+					<p>[年末ジャンボ宝くじの購入には成功の手がかりがあるはず。](https://docs.google.com/presentation/d/17hKVCV3qMq18ob2Erek1D5cNJs_qAJhMy8bp-gkB97I/edit?usp=sharing)</p>
+				</li>
+			</ul>
 		</section>
 		<section id="contact">
 			<h2>連絡先</h2>
