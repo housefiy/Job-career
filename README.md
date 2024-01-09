@@ -5,13 +5,10 @@
 	<meta charset="UTF-8">
 	<link rel="stylesheet" href="../職務経歴書.css">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>山中一輝 - プロフィール</title>
 </head>
 
 <body>
-	<div id="profile-container">
 		<header>
-			<img src="your-profile-picture.jpg" alt="山中一輝">
 			<h1>職務履歴書</h1>
 			<p>
 			<h3>目次</h3>
@@ -77,7 +74,7 @@
 						<hr>
 						<p>福岡県が主催しているPythonエンジニア育成講座</p>
 						<h4>学習内容</h4>
-						<p>Pythonの基礎、HTML5,CSS3,スクレイピングによるデータ収集、Webアプリケーション作成、データ分析、SQLの基礎</p>
+						<p>- Pythonの基礎、HTML5,CSS3,スクレイピングによるデータ収集、Webアプリケーション作成、データ分析、SQLの基礎</p>
 					</li>
 				</ol>
 			</article>
@@ -123,9 +120,9 @@
 			<h2>活かせる能力、スキル</h2>
 				<h3>活かせる能力</h3>
 				<ul>
-					<li><u>・信頼できる使命感と実行力</u></li>
+					<li><u>信頼できる使命感と実行力</u></li>
 					任せられた業務は心を尽くして考える意欲は負けません。自分の責任感と業務遂行能力が評価され、業務は私一人で担当してきました。
-					<li><u>・高い集中力と正確性</u></li>
+					<li><u>高い集中力と正確性</u></li>
 					図面の展開、外観及び寸法検査は一つのミスが製品のコストスケジュールに影響するため、計画的に業務の進歩を考え、納期を厳守してきました。
 				</ul>
 		</section>
@@ -139,10 +136,10 @@
 		<section id="Willingness_interest">
 			<h2>意欲・興味</h2>
 			<ul>
-				<li>・何度でも挑戦して、何度でも失敗して、また挑戦します</li>
-				<li>・新しい技術に対して積極的に学習を行い、スキルアップに努めます</li>
-				<li>・ビジネス課題は多種多様で、自分の中での型を持てるまで繰り返して実践経験を積みます</li>
-				<li>・生成AIなどの新しい技術の登場により環境が変化する中で、自身が付加価値を提供できる分野を探し続けます</li>
+				<li>何度でも挑戦して、何度でも失敗して、また挑戦します</li>
+				<li>新しい技術に対して積極的に学習を行い、スキルアップに努めます</li>
+				<li>ビジネス課題は多種多様で、自分の中での型を持てるまで繰り返して実践経験を積みます</li>
+				<li>生成AIなどの新しい技術の登場により環境が変化する中で、自身が付加価値を提供できる分野を探し続けます</li>
 			</ul>
 			<hr noshade>
 		</section>
@@ -189,7 +186,7 @@
 			<p>電話番号: 080-8378-7810</p>
 			<p>Email: kzkinstag@gmail.com</p>
 			<p>LinkedIn: www.linkedin.com/in/kazuki-yamanaka</p>
-			<p>GitHub: github.com/kzkinstag</p>
+			<p>GitHub: https://github.com/housefiy</p>
 		<hr noshade>
 		</section>
 		<section id="back-to-top">
