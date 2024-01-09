@@ -183,8 +183,8 @@
 		</section>
 		<section id="contact">
 			<h2>連絡先</h2>
-			<p>電話番号: 080-8378-7810</p>
-			<p>Email: kzkinstag@gmail.com</p>
+			<p>電話番号: <a href="080-8378-7810">080-8378-7810</a></p></p>
+			<p>Email: <a href="kzkinstag@gmail.com">kzkinstag@gmail.com</a></p>
 			<p>LinkedIn: www.linkedin.com/in/kazuki-yamanaka</p>
 			<p>GitHub: https://github.com/housefiy</p>
 		<hr noshade>
